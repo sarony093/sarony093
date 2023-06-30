@@ -3,7 +3,7 @@
 
 I'm a front-end web developer having a passion for building error-free websites with top-notch client satisfaction. I am strategic and goal oriented in nature who loves to solve real world problems.
 
-Skills: HTML / CSS / JS / PHP / REACT
+Skills: HTML / CSS / JS / PHP
 
 - 🔭 I’m currently working on KrsConnect 
 - 🌱 I’m currently learning JavaScript 
