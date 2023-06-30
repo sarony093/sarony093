@@ -5,7 +5,6 @@
 
 ### Hi there 👋, I'm Md Shane Azam
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic and goal-oriented person.  
 
