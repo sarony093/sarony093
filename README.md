@@ -6,7 +6,7 @@
 ### Hi there 👋, I'm Md Shane Azam
 #### Web Developer
 
-I'm a Front End Web developer who is passionate about creating error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic and goal-oriented person.  
+I'm a Front End Web developer who is passionate about creating error-free websites with top-notch client satisfaction. I love to solve real-world problems. I am strategic and goal-oriented person.  
 
 Skills: HTML / CSS / JS / PHP / REACT
 
