@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**sarony093/sarony093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋, I'm Md Shane Azam
 #### Web Developer
 
